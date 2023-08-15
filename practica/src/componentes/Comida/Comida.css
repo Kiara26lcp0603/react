@@ -1,0 +1,28 @@
+.card{
+    width: 40%;
+    height: auto;
+}
+.calorias{
+
+}
+.precio{
+
+}
+.ordenInfo{
+    display: flex;
+    justify-content: space-between;
+}
+@font-face{
+    font-family: "cartaTitulo";
+    src:url("../../../public/HotRestaurant.ttf") format(trueType);
+}
+.card-title{
+    font-family: "cartaTitulo";
+}
+.calorias{
+    font-family: "cartaTitulo";
+}
+
+.precio{
+    font-family: "cartaTitulo";
+}
